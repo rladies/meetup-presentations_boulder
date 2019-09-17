@@ -7,13 +7,13 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 ## Upcoming events
 
   - **In the Works**
-      + *Tuesday October, 2019*
+      + *Tuesday, October, 2019*
       + Presented by: TBD
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
 
 ## 2019
   - **R-Ladies-Boulder Kickoff Meeting**
-      + *Tuesday September 10, 2019*
+      + *Tuesday, September 10, 2019*
       + Welcome from the organizers...
         + [Courtney VanDenElzen](https://twitter.com/clvandenelzen)
         + Marta Jankowska
