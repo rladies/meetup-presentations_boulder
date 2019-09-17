@@ -16,9 +16,9 @@ Presentations and materials from R-Ladies Boulder events and discussions.
       + *Tuesday September 10, 2019*
       + Welcome from the organizers...
         + [Courtney VanDenElzen](https://twitter.com/clvandenelzen)
-        + [Marta Jankowska]()
+        + Marta Jankowska
         + [Leigh Alexander](https://twitter.com/ExuberantLeigh)
         + [Lisa Moller](https://twitter.com/lakmoller)
       + Introductions around the room and discussions about what we want from the group!
-      + Materials: https://github.com/rladies/meetup-presentations_boulder/
+      + Materials: https://github.com/rladies/meetup-presentations_boulder/blob/master/20190910_R-Ladies_Boulder_Kickoff.pptx
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/264186869/)
