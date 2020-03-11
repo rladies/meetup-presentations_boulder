@@ -4,15 +4,50 @@
 
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
-## Upcoming events
-
-  - **In the Works**
-      + *Tuesday, October, 2019*
-      + Presented by: TBD
+## Upcoming events (we plan for the second Tuesday of the month)
+  - **TENTATIVE: Meeting 7: Coding Hour and Networking**
+      + *Tuesday, April 14, 2020*
+      + Due to COVID19, we may skip our April meetup, or move to a virtual meeting if people have R questions. Please watch Meetup for updates.
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
+  
+  - **Meeting 8: Regression**
+      + *Tuesday, May 12, 2020*
+      + Marta Jankowska will enlighten us on regression. More details to come.
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
 
+## Past Events
+## 2020
+  - **Meeting 6: Introduction to Shiny!**
+      + *Tuesday, March 10, 2020*
+      + Lisa Moller gave us a tutorial on how to build an R Shiny app from scratch.
+      + Materials: 
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/268492926/)
+      
+  - **Meeting 5: Coding Hour and Networking**
+      + *Tuesday, February 11, 2020*
+      + We met, chatted and coded!
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/268492926/)
+
+  - **Meeting 4: Introduction to Building R Packages**
+      + *Tuesday, January 14, 2020*
+      + Leigh Alexander gave us a tutorial on how to build an R package from the ground up.
+      + Materials: 
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/267593347/)
+
 ## 2019
-  - **R-Ladies-Boulder Kickoff Meeting**
+  - **Meeting 3: Ugly Holiday Plot Contest**
+      + *Tuesday, December 10, 2019*
+      + We shared our ugliest holiday-themed plots!
+      + Our ugly plots: 
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/266646393/)
+  
+  - **Meeting 2: TidyTuesday**
+      + *Tuesday, October 8, 2019*
+      + We participated in TidyTuesday. A fun, low-stress coding challenge posted weekly by the R4DS online learning community.
+      + For more information on TidyTuesday, see here: https://github.com/rfordatascience/tidytuesday
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/265316428/)
+  
+  - **Meeting 1: R-Ladies-Boulder Kickoff Meeting**
       + *Tuesday, September 10, 2019*
       + Welcome from the organizers...
         + [Courtney VanDenElzen](https://twitter.com/clvandenelzen)
