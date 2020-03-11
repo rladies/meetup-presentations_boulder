@@ -20,7 +20,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
   - **Meeting 6: Introduction to Shiny!**
       + *Tuesday, March 10, 2020*
       + Lisa Moller gave us a tutorial on how to build an R Shiny app from scratch.
-      + [Materials]()
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_6_Introduction_to_Shiny/)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/268492926/)
       
   - **Meeting 5: Coding Hour and Networking**
@@ -31,7 +31,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
   - **Meeting 4: Introduction to Building R Packages**
       + *Tuesday, January 14, 2020*
       + Leigh Alexander gave us a tutorial on how to build an R package from the ground up.
-      + [Materials]()
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_4_Introduction_to_Building_R_Packages/)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/267593347/)
 
 ## 2019
