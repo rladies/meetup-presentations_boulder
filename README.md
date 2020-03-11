@@ -54,5 +54,5 @@ Presentations and materials from R-Ladies Boulder events and discussions.
         + [Leigh Alexander](https://twitter.com/ExuberantLeigh)
         + [Lisa Moller](https://twitter.com/lakmoller)
       + Introductions around the room and discussions about what we want from the group!
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting 1: R-Ladies-Boulder Kickoff Meeting/)
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_1_R_Ladies_Boulder_Kickoff_Meeting/)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/264186869/)
