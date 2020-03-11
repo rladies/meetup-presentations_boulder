@@ -20,7 +20,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
   - **Meeting 6: Introduction to Shiny!**
       + *Tuesday, March 10, 2020*
       + Lisa Moller gave us a tutorial on how to build an R Shiny app from scratch.
-      + Materials: 
+      + [Materials]()
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/268492926/)
       
   - **Meeting 5: Coding Hour and Networking**
@@ -31,14 +31,13 @@ Presentations and materials from R-Ladies Boulder events and discussions.
   - **Meeting 4: Introduction to Building R Packages**
       + *Tuesday, January 14, 2020*
       + Leigh Alexander gave us a tutorial on how to build an R package from the ground up.
-      + Materials: 
+      + [Materials]()
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/267593347/)
 
 ## 2019
   - **Meeting 3: Ugly Holiday Plot Contest**
       + *Tuesday, December 10, 2019*
       + We shared our ugliest holiday-themed plots!
-      + Our ugly plots: 
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/266646393/)
   
   - **Meeting 2: TidyTuesday**
@@ -51,9 +50,9 @@ Presentations and materials from R-Ladies Boulder events and discussions.
       + *Tuesday, September 10, 2019*
       + Welcome from the organizers...
         + [Courtney VanDenElzen](https://twitter.com/clvandenelzen)
-        + Marta Jankowska
+        + [Marta Jankowska](https://twitter.com/hdscalecollab)
         + [Leigh Alexander](https://twitter.com/ExuberantLeigh)
         + [Lisa Moller](https://twitter.com/lakmoller)
       + Introductions around the room and discussions about what we want from the group!
-      + Materials: https://github.com/rladies/meetup-presentations_boulder/blob/master/20190910_R-Ladies_Boulder_Kickoff.pptx
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting 1: R-Ladies-Boulder Kickoff Meeting/)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/264186869/)
