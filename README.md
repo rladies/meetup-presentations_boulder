@@ -5,18 +5,22 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **TENTATIVE: Meeting 7: Coding Hour and Networking**
-      + *Tuesday, April 14, 2020*
-      + Due to COVID19, we may skip our April meetup, or move to a virtual meeting if people have R questions. Please watch Meetup for updates.
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
-  
-  - **Meeting 8: Regression**
-      + *Tuesday, May 12, 2020*
-      + Marta Jankowska will enlighten us on regression. More details to come.
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
+  - **Meeting 9: Unsupervised clustering methods in R**
+      + *Tuesday, October 13, 2020*
+      + Dr. Marta Jankowska will be showing us the ropes of some common machine learning algorithms in R. She will focus on unsupervised clustering methods.
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/273646366/)
 
 ## Past Events
 ## 2020
+  - **Meeting 8: Lightning Talks!**
+      + *Tuesday, September 8, 2020*
+      + Teaching R to undergraduates (Speaker: Kelly Carscadden)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/272634605/)
+ 
+  - **Meeting 7: Virtual Happy Hour!**
+      + *Tuesday, July 14, 2020*
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/271672015/)
+      
   - **Meeting 6: Introduction to Shiny!**
       + *Tuesday, March 10, 2020*
       + Lisa Moller gave us a tutorial on how to build an R Shiny app from scratch.
