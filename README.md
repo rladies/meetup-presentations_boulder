@@ -8,6 +8,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
   - **Meeting 9: Unsupervised Clustering Methods in R**
       + *Tuesday, October 13, 2020*
       + Dr. Marta Jankowska will be showing us the ropes of some common machine learning algorithms in R. She will focus on unsupervised clustering methods.
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_7_Unsupervised_Clustering_Methods_in_R)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/273646366/)
 
 ## Past Events
