@@ -5,14 +5,20 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 9: Unsupervised Clustering Methods in R**
-      + *Tuesday, October 13, 2020*
-      + Dr. Marta Jankowska will be showing us the ropes of some common machine learning algorithms in R. She will focus on unsupervised clustering methods.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_7_Unsupervised_Clustering_Methods_in_R)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/273646366/)
+  - **Meeting 10: Introduction to Flexdashboards**
+      + *Tuesday, November 10, 2020*
+      + Hilary Traut will be guiding us through the basics of flexdashboard. Flexdashboards are a widely useful method (based in R Markdown) for presenting interactive analysis reports, usually focusing on graphs or other types of data visuals.
+      + [Materials]()
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/274264141/)
 
 ## Past Events
 ## 2020
+ - **Meeting 9: Unsupervised Clustering Methods in R**
+      + *Tuesday, October 13, 2020*
+      + Dr. Marta Jankowska showed us the ropes of some common machine learning algorithms in R. She focused on unsupervised clustering methods.
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_7_Unsupervised_Clustering_Methods_in_R)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/273646366/)
+
   - **Meeting 8: Lightning Talks!**
       + *Tuesday, September 8, 2020*
       + Teaching R to undergraduates (Speaker: Kelly Carscadden)
