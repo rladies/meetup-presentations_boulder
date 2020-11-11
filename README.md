@@ -5,13 +5,19 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 10: Introduction to Flexdashboards**
-      + *Tuesday, November 10, 2020*
-      + Hilary Traut will be guiding us through the basics of flexdashboard. Flexdashboards are a widely useful method (based in R Markdown) for presenting interactive analysis reports, usually focusing on graphs or other types of data visuals.
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/274264141/)
+  - **Meeting 11: Return of the Ugly Holiday Plot Contest**
+      + *Tuesday, December 8, 2020*
+      + Last year we shared our ugliest holiday-themed plots, and had a great time! Let's see if we can make them even uglier - put all of your plot no-no's in one spot. The more confusing the better.
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
 
 ## Past Events
 ## 2020
+ - **Meeting 10: Introduction to Flexdashboards**
+      + *Tuesday, November 10, 2020*
+      + Hilary Traut guided us through the basics of flexdashboard. Flexdashboards are a widely useful method (based in R Markdown) for presenting interactive analysis reports, usually focusing on graphs or other types of data visuals.
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_10_Introduction_to_Flexdashboards)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/274264141/)
+ 
  - **Meeting 9: Unsupervised Clustering Methods in R**
       + *Tuesday, October 13, 2020*
       + Dr. Marta Jankowska showed us the ropes of some common machine learning algorithms in R. She focused on unsupervised clustering methods.
