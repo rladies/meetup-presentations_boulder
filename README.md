@@ -5,9 +5,8 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 11: Return of the Ugly Holiday Plot Contest**
-      + *Tuesday, December 8, 2020*
-      + Last year we shared our ugliest holiday-themed plots, and had a great time! Let's see if we can make them even uglier - put all of your plot no-no's in one spot. The more confusing the better.
+  - **Meeting 11: TBD**
+      + *Tuesday: TBD*
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
 
 ## Past Events
