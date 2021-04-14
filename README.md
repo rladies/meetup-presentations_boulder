@@ -5,12 +5,6 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
- - **Meeting 13: Lasso, Ridge, and Elastic Net Regression**
-      + *Tuesday, April 13, 2021*
-      + Marta Jankowska is giving us a tutorial on Elastic Net, Ridge, and Lasso Regression approaches.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_13_Lasso_Ridge_Elastic_Net_Regression)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/276975668/)
- 
   - **Meeting 14: Watch and Discuss One of Several rstudio::global 2021 Talks**
       + *Tuesday, May 11, 2021*
       + We will have a choice of talks to watch and discuss.
@@ -23,6 +17,13 @@ Presentations and materials from R-Ladies Boulder events and discussions.
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
  
 ## Past Events
+## 2021
+ - **Meeting 13: Lasso, Ridge, and Elastic Net Regression**
+      + *Tuesday, April 13, 2021*
+      + Marta Jankowska gave us a tutorial on Elastic Net, Ridge, and Lasso Regression approaches.
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_13_Lasso_Ridge_Elastic_Net_Regression)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/276975668/)
+ 
 ## 2020
  - **Meeting 10: Introduction to Flexdashboards**
       + *Tuesday, November 10, 2020*
