@@ -5,19 +5,24 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 14: Watch and Discuss One of Several rstudio::global 2021 Talks**
-      + *Tuesday, May 11, 2021*
-      + We will have a choice of talks to watch and discuss.
-      + [Materials](https://rstudio.com/resources/rstudioglobal-2021/?mkt_tok=eyJpIjoiTTJFNFlXRmpZamhrTmpKaSIsInQiOiJKc3pxZG92MzdkWFZUTGRPUnJHZEhQQUo0SGJnclZzOVFIQnFtNTdDM21vYk5iamlycnNxVWhYKzlmcTY2a092XC9OZVdwczQzbDE4Uml0VU4yWG51MGl0SkdKT3FxVUtVQW1qU1VBcG5CSWp4YU9RUlwvRHV0MDlMT1dwZWNBTnlvIn0%3D)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
-
-  - **Meeting 15: Mapping and Spatial data in R**
-      + *Tuesday, June 8, 2021*
-      + A tutorial on types of spatial data, relevant R packages, workflow on converting data to spatial data, and some advance mapping techniques.
+  - **Meeting 18: *TBD*
+      + *Tuesday, September 14, 2021*
+      + 
+      + [Materials]()
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
  
 ## Past Events
 ## 2021
+  - **Meeting 17: From csv to Slippy Map - Intro to Spatial Data in R**
+      + *Tuesday, August 10, 2021*
+      + Anna Spiers introduced spatial data broadly, and covered some of the basic workflows and troubleshooting steps in R. Specifically, we worked with vector data, focused on the `sp` and `sf` libraries, and produced an interactive map in R.
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/279892572/)
+
+  - **Meeting 14: rstudio::global 2021 Conference Talk Watch Party**
+      + *Tuesday, May 11, 2021*
+      + [Materials](https://rstudio.com/resources/rstudioglobal-2021/?mkt_tok=eyJpIjoiTTJFNFlXRmpZamhrTmpKaSIsInQiOiJKc3pxZG92MzdkWFZUTGRPUnJHZEhQQUo0SGJnclZzOVFIQnFtNTdDM21vYk5iamlycnNxVWhYKzlmcTY2a092XC9OZVdwczQzbDE4Uml0VU4yWG51MGl0SkdKT3FxVUtVQW1qU1VBcG5CSWp4YU9RUlwvRHV0MDlMT1dwZWNBTnlvIn0%3D)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/278024064/)
+
  - **Meeting 13: Lasso, Ridge, and Elastic Net Regression**
       + *Tuesday, April 13, 2021*
       + Marta Jankowska gave us a tutorial on Elastic Net, Ridge, and Lasso Regression approaches.
