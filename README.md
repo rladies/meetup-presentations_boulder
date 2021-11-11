@@ -14,7 +14,8 @@ Presentations and materials from R-Ladies Boulder events and discussions.
   - **Meeting 20: Reproducible Code & Visualization Best Practices**
       + *Tuesday, November 9, 2021*
       + Lara Southard, PhD walked us through Reproducible Code (including the Project Template library) and Visualization Best Practices. Lara is a Sr. Research Scientist at Pearson and has her PhD in Cognitive Neuroscience from CSU.
-      + [Materials]()
+      + Recording coming!
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_20_Reproducible_Code_and_Best_Practice_Viz/)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/281879108/)
 
   - **Meeting 17: From csv to Slippy Map - Intro to Spatial Data in R**
