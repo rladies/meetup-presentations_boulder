@@ -5,14 +5,18 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 18: *TBD*
-      + *Tuesday, September 14, 2021*
-      + 
-      + [Materials]()
+  - **Meeting 21: We just may do another Ugly Holiday Plot contest again... Keep your eyes out!**
+      + *Tuesday, December 14, 2021*
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
  
 ## Past Events
 ## 2021
+  - **Meeting 20: Reproducible Code & Visualization Best Practices**
+      + *Tuesday, November 9, 2021*
+      + Lara Southard, PhD walked us through Reproducible Code (including the Project Template library) and Visualization Best Practices. Lara is a Sr. Research Scientist at Pearson and has her PhD in Cognitive Neuroscience from CSU.
+      + [Materials]()
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/281879108/)
+
   - **Meeting 17: From csv to Slippy Map - Intro to Spatial Data in R**
       + *Tuesday, August 10, 2021*
       + Anna Spiers introduced spatial data broadly, and covered some of the basic workflows and troubleshooting steps in R. Specifically, we worked with vector data, focused on the `sp` and `sf` libraries, and produced an interactive map in R.
