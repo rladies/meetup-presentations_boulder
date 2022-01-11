@@ -1,16 +1,20 @@
-<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
+<img src="https://github.com/rladies/branding-materials/blob/main/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/branding-materials/blob/main/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 
 # R-Ladies Boulder
 
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 21: We just may do another Ugly Holiday Plot contest again... Keep your eyes out!**
-      + *Tuesday, December 14, 2021*
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
+  - **Meeting 22: Frequentist & Bayesian Random Effects Models in R: RStan Tutorial**
+      + *Tuesday, January 11, 2022*
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/283098539/)
  
 ## Past Events
 ## 2021
+  - **Meeting 21: Ugly Holiday Plot contest**
+      + *Tuesday, December 14, 2021*
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
+ 
   - **Meeting 20: Reproducible Code & Visualization Best Practices**
       + *Tuesday, November 9, 2021*
       + Lara Southard, PhD walked us through Reproducible Code (including the Project Template library) and Visualization Best Practices. Lara is a Sr. Research Scientist at Pearson and has her PhD in Cognitive Neuroscience from CSU.
