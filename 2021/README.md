@@ -1,7 +1,7 @@
 
 # RLadies Boulder 2021 
 
-This is a list of past meetups with no code
+Past meetups with no code listed below
 
 ## From csv to Slippy Map - Intro to Spatial Data in R
 - meeting 17
@@ -10,7 +10,7 @@ This is a list of past meetups with no code
 
 
 
-## Meeting 14: rstudio::global 2021 Conference Talk Watch Party
+## rstudio::global 2021 Conference Talk Watch Party
 - meeting 14
 - Date: Tuesday, May 11, 2021
 - [Meetup event](https://www.meetup.com/rladies-boulder/events/278024064/)

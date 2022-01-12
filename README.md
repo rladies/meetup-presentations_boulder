@@ -22,33 +22,14 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 | 2021 | Ugly Holiday Plot contest                        | [Meetup](https://www.meetup.com/rladies-boulder/events/)         |         |
 | 2021 | Reproducible Code & Visualization Best Practices | [Code](2021/Meeting_20_Reproducible_Code_and_Best_Practice_Viz/) |  [YouTube](https://youtu.be/aJ3l4TjLWyI)       |
 | 2021 | From csv to Slippy Map - Intro to Spatial Data in R | [Meetup](https://www.meetup.com/rladies-boulder/events/279892572/) | |
- 
- 
+| 2021 | rstudio::global 2021 Conference Talk Watch Party | [Code](https://rstudio.com/resources/rstudioglobal-2021/?mkt_tok=eyJpIjoiTTJFNFlXRmpZamhrTmpKaSIsInQiOiJKc3pxZG92MzdkWFZUTGRPUnJHZEhQQUo0SGJnclZzOVFIQnFtNTdDM21vYk5iamlycnNxVWhYKzlmcTY2a092XC9OZVdwczQzbDE4Uml0VU4yWG51MGl0SkdKT3FxVUtVQW1qU1VBcG5CSWp4YU9RUlwvRHV0MDlMT1dwZWNBTnlvIn0%3D) | |
+| 2021 | Lasso, Ridge, and Elastic Net Regression | [Code](2021/Meeting_13_Lasso_Ridge_Elastic_Net_Regression) | |
+| 2020 | Introduction to Flexdashboards | [Code](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_10_Introduction_to_Flexdashboards) | |
  
  
 
-## 2021
-
- 
-
-  - **Meeting 14: rstudio::global 2021 Conference Talk Watch Party**
-      + *Tuesday, May 11, 2021*
-      + [Materials](https://rstudio.com/resources/rstudioglobal-2021/?mkt_tok=eyJpIjoiTTJFNFlXRmpZamhrTmpKaSIsInQiOiJKc3pxZG92MzdkWFZUTGRPUnJHZEhQQUo0SGJnclZzOVFIQnFtNTdDM21vYk5iamlycnNxVWhYKzlmcTY2a092XC9OZVdwczQzbDE4Uml0VU4yWG51MGl0SkdKT3FxVUtVQW1qU1VBcG5CSWp4YU9RUlwvRHV0MDlMT1dwZWNBTnlvIn0%3D)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/278024064/)
-
- - **Meeting 13: Lasso, Ridge, and Elastic Net Regression**
-      + *Tuesday, April 13, 2021*
-      + Marta Jankowska gave us a tutorial on Elastic Net, Ridge, and Lasso Regression approaches.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_13_Lasso_Ridge_Elastic_Net_Regression)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/276975668/)
- 
 ## 2020
- - **Meeting 10: Introduction to Flexdashboards**
-      + *Tuesday, November 10, 2020*
-      + Hilary Traut guided us through the basics of flexdashboard. Flexdashboards are a widely useful method (based in R Markdown) for presenting interactive analysis reports, usually focusing on graphs or other types of data visuals.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_10_Introduction_to_Flexdashboards)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/274264141/)
- 
+
  - **Meeting 9: Unsupervised Clustering Methods in R**
       + *Tuesday, October 13, 2020*
       + Dr. Marta Jankowska showed us the ropes of some common machine learning algorithms in R. She focused on unsupervised clustering methods.
