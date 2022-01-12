@@ -26,25 +26,13 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 | 2021 | Lasso, Ridge, and Elastic Net Regression | [Code](2021/Meeting_13_Lasso_Ridge_Elastic_Net_Regression) | |
 | 2020 | Introduction to Flexdashboards | [Code](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_10_Introduction_to_Flexdashboards) | |
 | 2020 | Unsupervised Clustering Methods in R | [Code](2020/Meeting_9_Unsupervised_Clustering_Methods_in_R) | |
- 
+| 2020 | Lightning Talks! | [Meetup](https://www.meetup.com/rladies-boulder/events/272634605/) | |
+| 2020 | Virtual Happy Hour! | [Meetup](https://www.meetup.com/rladies-boulder/events/271672015/) | |
+| 2020 | Introduction to Shiny! | [Code](2020/Meeting_6_Introduction_to_Shiny) | |
+
 
 ## 2020
 
-
-  - **Meeting 8: Lightning Talks!**
-      + *Tuesday, September 8, 2020*
-      + Teaching R to undergraduates (Speaker: Kelly Carscadden)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/272634605/)
- 
-  - **Meeting 7: Virtual Happy Hour!**
-      + *Tuesday, July 14, 2020*
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/271672015/)
-      
-  - **Meeting 6: Introduction to Shiny!**
-      + *Tuesday, March 10, 2020*
-      + Lisa Moller gave us a tutorial on how to build an R Shiny app from scratch.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_6_Introduction_to_Shiny/)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/268492926/)
       
   - **Meeting 5: Coding Hour and Networking**
       + *Tuesday, February 11, 2020*
