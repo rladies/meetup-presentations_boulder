@@ -13,17 +13,21 @@ Presentations and materials from R-Ladies Boulder events and discussions.
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/283098539/)
  
  
+ 
+ 
+## Past Events
+
 | Year | Title                     | Link                                                   |
 | :--- | :------------------------ | :----------------------------------------------------- |
 | 2021 | Ugly Holiday Plot contest | [Link](https://www.meetup.com/rladies-boulder/events/) |
-| x    | y                         | z                                                      |
+| 2021    | Reproducible Code & Visualization Best Practices                         | [Link](2021/Meeting_20_Reproducible_Code_and_Best_Practice_Viz/)              |
 
  
  
  
  
  
-## Past Events
+
 ## 2021
   - **Meeting 21: Ugly Holiday Plot contest**
       + *Tuesday, December 14, 2021*
@@ -33,7 +37,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
       + *Tuesday, November 9, 2021*
       + Lara Southard, PhD walked us through Reproducible Code (including the Project Template library) and Visualization Best Practices. Lara is a Sr. Research Scientist at Pearson and has her PhD in Cognitive Neuroscience from CSU.
       + [Recording](https://youtu.be/aJ3l4TjLWyI)
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_20_Reproducible_Code_and_Best_Practice_Viz/)
+      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/)
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/281879108/)
 
   - **Meeting 17: From csv to Slippy Map - Intro to Spatial Data in R**
