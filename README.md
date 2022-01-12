@@ -7,7 +7,9 @@
 
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
-## Upcoming events (we plan for the second Tuesday of the month)
+- we plan for the second Tuesday of the month
+
+## Upcoming events 
   - 
  
  
