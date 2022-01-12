@@ -25,16 +25,11 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 | 2021 | rstudio::global 2021 Conference Talk Watch Party | [Code](https://rstudio.com/resources/rstudioglobal-2021/?mkt_tok=eyJpIjoiTTJFNFlXRmpZamhrTmpKaSIsInQiOiJKc3pxZG92MzdkWFZUTGRPUnJHZEhQQUo0SGJnclZzOVFIQnFtNTdDM21vYk5iamlycnNxVWhYKzlmcTY2a092XC9OZVdwczQzbDE4Uml0VU4yWG51MGl0SkdKT3FxVUtVQW1qU1VBcG5CSWp4YU9RUlwvRHV0MDlMT1dwZWNBTnlvIn0%3D) | |
 | 2021 | Lasso, Ridge, and Elastic Net Regression | [Code](2021/Meeting_13_Lasso_Ridge_Elastic_Net_Regression) | |
 | 2020 | Introduction to Flexdashboards | [Code](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_10_Introduction_to_Flexdashboards) | |
- 
+| 2020 | Unsupervised Clustering Methods in R | [Code](2020/Meeting_9_Unsupervised_Clustering_Methods_in_R) | |
  
 
 ## 2020
 
- - **Meeting 9: Unsupervised Clustering Methods in R**
-      + *Tuesday, October 13, 2020*
-      + Dr. Marta Jankowska showed us the ropes of some common machine learning algorithms in R. She focused on unsupervised clustering methods.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_9_Unsupervised_Clustering_Methods_in_R)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/273646366/)
 
   - **Meeting 8: Lightning Talks!**
       + *Tuesday, September 8, 2020*
