@@ -19,6 +19,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 
 | Year | Title                                            | Link                                                             | YouTube |
 | :--- | :----------------------------------------------- | :--------------------------------------------------------------- | :------ |
+| 2022 | Frequentist & Bayesian Random Effects Models in R: RStan Tutorial | [Code](2022/)
 | 2021 | Ugly Holiday Plot contest                        | [Meetup](https://www.meetup.com/rladies-boulder/events/)         |         |
 | 2021 | Reproducible Code & Visualization Best Practices | [Code](2021/Meeting_20_Reproducible_Code_and_Best_Practice_Viz/) |  [YouTube](https://youtu.be/aJ3l4TjLWyI)       |
 | 2021 | From csv to Slippy Map - Intro to Spatial Data in R | [Meetup](https://www.meetup.com/rladies-boulder/events/279892572/) | |
