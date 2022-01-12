@@ -1,0 +1,13 @@
+CU related covid data extracted from:
+
+https://www.colorado.edu/covid-19-ready-dashboard#custats
+
+Boulder County related data extracted from:
+
+https://data-cdphe.opendata.arcgis.com/datasets/cdphe-covid19-county-level-open-data-repository/data?orderBy=Date&orderByAsc=false&where=FULL_%20%3D%20%27Boulder%20County%27%20AND%20Metric%20%3D%20%27Cases%27
+
+CU Cases reported by Boulder County extracted from:
+
+https://www.bouldercounty.org/families/disease/covid-19/covid-19-illness-and-recovery/
+
+NOTE: Be aware that data vary between sources regarding the number of cases per day within Boulder County or the number of cases from CU specifically.

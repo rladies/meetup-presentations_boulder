@@ -1,0 +1,101 @@
+---
+title: "multipage"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    source_code: embed
+    theme: flatly
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+pacman::p_load(flexdashboard, ggplot2, plotly)
+```
+
+Page 1
+============================================================================
+Row 
+-----------------------------------------------------------------------
+
+### valueBox
+
+```{r}
+valueBox(value = round(mean(iris$Sepal.Length), digits = 2), 
+         caption = "Mean Sepal Length")
+```
+
+### Gauge
+
+```{r}
+gauge(value = iris$Sepal.Length, min = 0, max = 8)
+```
+
+### valueBox2
+
+```{r}
+valueBox(value = round(mean(iris$Sepal.Width), digits = 2), caption = "Mean Sepal Width", color = "green")
+```
+
+Row
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+ggplot(iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) + geom_point()
+```
+
+### Chart C
+
+```{r}
+ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) + geom_point()
+```
+
+
+GGPlotly
+============================================================================
+
+Column {.tabset}
+-----------------------------------------------------------------------
+
+### Tab1
+
+```{r}
+ggplotly(ggplot(iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) + geom_point() + geom_smooth())
+```
+
+### Tab2
+
+```{r}
+ggplotly(ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) + geom_point() + geom_smooth())
+```
+
+Shiny
+============================================================================
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+
+Select an Iris species to display.
+
+```{r}
+selectInput("spe_group", label = "Select Species",
+            choices = c("setosa", "versicolor", "virginica"), selected = "setosa")
+```
+
+Column
+-----------------------------------------------------------------------
+
+### Reactive Boxplot
+
+```{r}
+renderPlot({
+  
+  iris %>%
+    filter(Species == input$spe_group) %>%
+    ggplot(aes(x = 0, y = Sepal.Width)) +
+    geom_boxplot()
+  
+})
+```
