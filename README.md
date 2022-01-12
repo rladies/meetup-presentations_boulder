@@ -12,11 +12,22 @@ Presentations and materials from R-Ladies Boulder events and discussions.
       + *Tuesday, January 11, 2022*
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/283098539/)
  
+ 
+| Year | Title                     | Link                                                   |
+| :--- | :------------------------ | :----------------------------------------------------- |
+| 2021 | Ugly Holiday Plot contest | [Link](https://www.meetup.com/rladies-boulder/events/) |
+| x    | y                         | z                                                      |
+
+ 
+ 
+ 
+ 
+ 
 ## Past Events
 ## 2021
   - **Meeting 21: Ugly Holiday Plot contest**
       + *Tuesday, December 14, 2021*
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
+      + [Meetup event]()
  
   - **Meeting 20: Reproducible Code & Visualization Best Practices**
       + *Tuesday, November 9, 2021*
