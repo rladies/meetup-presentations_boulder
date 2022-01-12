@@ -30,7 +30,7 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 | 2020 | Introduction to Shiny! | [Code](2020/Meeting_6_Introduction_to_Shiny) | |
 | 2020 | Coding Hour and Networking | [Meetup](https://www.meetup.com/rladies-boulder/events/268492926/) | |
 | 2020 | Introduction to Building R Packages | [Meetup](https://www.meetup.com/rladies-boulder/events/266646393/) | |
-! 2019 | Ugly Holiday Plot Contest | [Meetup](https://www.meetup.com/rladies-boulder/events/265316428/) | |
+| 2019 | Ugly Holiday Plot Contest | [Meetup](https://www.meetup.com/rladies-boulder/events/265316428/) | |
 | 2019 | TidyTuesday | [Meetup](https://www.meetup.com/rladies-boulder/events/265316428/) | |
 | 2019 | R-Ladies-Boulder Kickoff Meeting | [Slides](2019//Meeting_1_R_Ladies_Boulder_Kickoff_Meeting) | |
 
