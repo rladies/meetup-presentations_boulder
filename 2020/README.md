@@ -22,7 +22,7 @@ Past meetups with no code listed below
 - Meeting 4:
 - Date: *Tuesday, January 14, 2020*
 - Leigh Alexander gave us a tutorial on how to build an R package from the ground up.
-- [Meetup event](https://www.meetup.com/rladies-boulder/events/267593347/)
+
 
 
 

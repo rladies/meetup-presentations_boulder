@@ -30,29 +30,23 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 | 2020 | Introduction to Shiny! | [Code](2020/Meeting_6_Introduction_to_Shiny) | |
 | 2020 | Coding Hour and Networking | [Meetup](https://www.meetup.com/rladies-boulder/events/268492926/) | |
 | 2020 | Introduction to Building R Packages | [Meetup](https://www.meetup.com/rladies-boulder/events/266646393/) | |
+! 2019 | Ugly Holiday Plot Contest | [Meetup](https://www.meetup.com/rladies-boulder/events/265316428/) | |
+| 2019 | TidyTuesday | [Meetup](https://www.meetup.com/rladies-boulder/events/265316428/) | |
+| 2019 | R-Ladies-Boulder Kickoff Meeting | [Slides](2019//Meeting_1_R_Ladies_Boulder_Kickoff_Meeting) | |
 
 
 
 
-## 2019
-  - **Meeting 3: Ugly Holiday Plot Contest**
-      + *Tuesday, December 10, 2019*
-      + We shared our ugliest holiday-themed plots!
-      + 
-  
-  - **Meeting 2: TidyTuesday**
-      + *Tuesday, October 8, 2019*
-      + We participated in TidyTuesday. A fun, low-stress coding challenge posted weekly by the R4DS online learning community.
-      + For more information on TidyTuesday, see here: https://github.com/rfordatascience/tidytuesday
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/265316428/)
-  
-  - **Meeting 1: R-Ladies-Boulder Kickoff Meeting**
-      + *Tuesday, September 10, 2019*
-      + Welcome from the organizers...
-        + [Courtney VanDenElzen](https://twitter.com/clvandenelzen)
-        + [Marta Jankowska](https://twitter.com/hdscalecollab)
-        + [Leigh Alexander](https://twitter.com/ExuberantLeigh)
-        + [Lisa Moller](https://twitter.com/lakmoller)
-      + Introductions around the room and discussions about what we want from the group!
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_1_R_Ladies_Boulder_Kickoff_Meeting/)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/264186869/)
+
+## R-Ladies-Boulder 
+- [Courtney VanDenElzen](https://twitter.com/clvandenelzen)
+- [Marta Jankowska](https://twitter.com/hdscalecollab)
+- [Leigh Alexander](https://twitter.com/ExuberantLeigh)
+- [Lisa Moller](https://twitter.com/lakmoller)
+
+
+
+
+
+
+
