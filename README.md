@@ -8,9 +8,7 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 22: Frequentist & Bayesian Random Effects Models in R: RStan Tutorial**
-      + *Tuesday, January 11, 2022*
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/283098539/)
+  - 
  
  
  
