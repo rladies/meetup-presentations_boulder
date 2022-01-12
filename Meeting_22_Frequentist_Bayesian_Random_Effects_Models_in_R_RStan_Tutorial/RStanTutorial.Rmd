@@ -1,0 +1,160 @@
+---
+title: 'Frequentist and Bayesian random effects models in R: an RStan tutorial'
+author: "Amanda Koepke"
+date: "1/11/2022"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+RStan is the R interface to Stan. For more information on Stan and its modeling language visit the Stan website at http://mc-stan.org/
+
+Stan uses Hamiltonian Monte Carlo, which provides a very efficient way to explore the posterior distribution and allows for the most natural definition of specialized probability distributions. 
+
+## Getting started
+
+Detailed instructions here: http://mc-stan.org/rstan/
+
+Tells you how to download 
+
+## How to Use RStan
+
+
+```{r}
+library("rstan") # observe startup messages
+options(mc.cores = parallel::detectCores()) # if you are using rstan locally on a multicore machine and have plenty of RAM to estimate your model in parallel, this is helpful
+rstan_options(auto_write = TRUE) #allows you to automatically save a bare version of a compiled Stan program to the hard disk so that it does not need to be recompiled (unless you change it). 
+```
+
+You will need to run these commands each time you load the rstan library.
+
+## Example 1: Basic Example
+
+We start by writing a Stan program for the model in a text file. If you are using RStudio version 1.2.x or greater, click on File -> New File -> Stan File. Otherwise, open your favorite text editor. 
+
+```{r}
+mu=10
+sigma=5
+N=10
+
+y=rnorm(N,mu,sigma)
+
+basicEx_dat=list(y=y,N=N)
+
+fit_basic <- stan(file = 'basicEx.stan', data = basicEx_dat,
+                  iter = 2000,warmup = 2000/2,chains=4)
+
+print(fit_basic)
+
+```
+
+### Posterior summary statistics and convergence diagnostics
+
+From: https://cran.r-project.org/web/packages/rstan/vignettes/stanfit-objects.html
+
+```{r}
+### look at summary stats
+fit_basic_summary <- summary(fit_basic)
+print(names(fit_basic_summary))
+
+```
+
+In fit_summary\$summary all chains are merged whereas fit_summary\$c_summary contains summaries for each chain individually. Typically we want the summary for all chains merged, which is what we’ll focus on here.
+
+The summary is a matrix with rows corresponding to parameters and columns to the various summary quantities. These include the posterior mean, the posterior standard deviation, and various quantiles computed from the draws. The probs argument can be used to specify which quantiles to compute and pars can be used to specify a subset of parameters to include in the summary.
+
+If, for example, we wanted the only quantiles included to be 2.5% and 97.5%, and for only the parameters included to be mu and sigma, we would specify that like this:
+
+```{r}
+mu_sigma_summary <- summary(fit_basic, pars = c("mu", "sigma"), probs = c(0.025, 0.975))$summary
+print(mu_sigma_summary)
+```
+
+For models fit using MCMC, also included in the summary are the Monte Carlo standard error (se_mean), the effective sample size (n_eff), and the R-hat statistic (Rhat).
+
+From https://mc-stan.org/rstan/reference/Rhat.html:
+
+"The Rhat function produces R-hat convergence diagnostic, which compares the between- and within-chain estimates for model parameters and other univariate quantities of interest. If chains have not mixed well (ie, the between- and within-chain estimates don't agree), R-hat is larger than 1. We recommend running at least four chains by default and only using the sample if R-hat is less than 1.05."
+
+
+```{r}
+###look at posterior draws
+basicEx_posteriorDraws <- extract(fit_basic) ## provides list
+print(names(basicEx_posteriorDraws))
+
+basicEx_posteriorDraws_DF <- as.data.frame(fit_basic) ## provides df
+head(basicEx_posteriorDraws_DF)
+basicEx_posteriorDraws_DF$Iteration=1:4000
+
+# Trace plot
+ggplot(basicEx_posteriorDraws_DF,aes(Iteration, mu))+
+  geom_line()
+
+# Posterior Distribution
+ggplot(basicEx_posteriorDraws_DF,aes(mu))+
+  geom_density(fill="blue", alpha=0.5)+
+  geom_vline(xintercept = mu_sigma_summary["mu","mean"],size=1.2)+
+  geom_vline(xintercept = mu_sigma_summary["mu",c("2.5%","97.5%")],linetype="longdash",size=1.2)
+
+ggplot(basicEx_posteriorDraws_DF,aes(sigma))+
+  geom_density(fill="blue", alpha=0.5)+
+  geom_vline(xintercept = mu_sigma_summary["sigma","mean"],size=1.2)+
+  geom_vline(xintercept = mu_sigma_summary["sigma",c("2.5%","97.5%")],linetype="longdash",size=1.2)
+
+```
+
+
+## Example 2: Eight Schools
+
+This is an example in Section 5.5 of Gelman et al (2003), which studied coaching effects from eight schools. For simplicity, we call this example "eight schools."
+
+```{r}
+schools_dat <- list(J = 8, 
+                    y = c(28,  8, -3,  7, -1,  1, 18, 12),
+                    sigma = c(15, 10, 16, 11,  9, 11, 10, 18))
+                    
+fit_schools <- stan(file = 'schools.stan', data = schools_dat)
+
+print(fit_schools)
+
+schools_posteriorDraws_DF <- as.data.frame(fit_schools) ## provides df
+schools_posteriorDraws_DF$Iteration=1:4000
+
+# Trace plot
+ggplot(schools_posteriorDraws_DF,aes(Iteration, mu))+
+  geom_line()
+ggplot(schools_posteriorDraws_DF,aes(Iteration, tau))+
+  geom_line()
+```
+
+
+From https://mc-stan.org/users/documentation/case-studies/divergences_and_bias.html
+
+"Unfortunately, this direct implementation of the model exhibits a pathological geometry that frustrates geometric ergodicity."
+
+## Example 2: reparameterization of 8 schools
+
+In a non-centered parameterization we do not try to fit the group-level parameters directly, rather we fit a latent Gaussian variable from which we can recover the group-level parameters with a scaling and a translation.
+
+
+```{r}
+                    
+better_fit_schools <- stan(file = 'betterSchools.stan', data = schools_dat,iter=11000, warmup=1000)
+
+print(better_fit_schools)
+```
+
+
+## Dealing with warnings
+
+```{r}
+better_fit_schools <- stan(file = 'betterSchools.stan', data = schools_dat,iter=11000, warmup=1000,control=list(adapt_delta=0.90))
+
+print(better_fit_schools)
+```
+
+
+
