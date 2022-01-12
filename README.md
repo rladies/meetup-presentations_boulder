@@ -28,27 +28,17 @@ Presentations and materials from R-Ladies Boulder events and discussions.
 | 2020 | Lightning Talks! | [Meetup](https://www.meetup.com/rladies-boulder/events/272634605/) | |
 | 2020 | Virtual Happy Hour! | [Meetup](https://www.meetup.com/rladies-boulder/events/271672015/) | |
 | 2020 | Introduction to Shiny! | [Code](2020/Meeting_6_Introduction_to_Shiny) | |
+| 2020 | Coding Hour and Networking | [Meetup](https://www.meetup.com/rladies-boulder/events/268492926/) | |
+| 2020 | Introduction to Building R Packages | [Meetup](https://www.meetup.com/rladies-boulder/events/266646393/) | |
 
 
-## 2020
 
-      
-  - **Meeting 5: Coding Hour and Networking**
-      + *Tuesday, February 11, 2020*
-      + We met, chatted and coded!
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/268492926/)
-
-  - **Meeting 4: Introduction to Building R Packages**
-      + *Tuesday, January 14, 2020*
-      + Leigh Alexander gave us a tutorial on how to build an R package from the ground up.
-      + [Materials](https://github.com/rladies/meetup-presentations_boulder/tree/master/Meeting_4_Introduction_to_Building_R_Packages/)
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/267593347/)
 
 ## 2019
   - **Meeting 3: Ugly Holiday Plot Contest**
       + *Tuesday, December 10, 2019*
       + We shared our ugliest holiday-themed plots!
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/266646393/)
+      + 
   
   - **Meeting 2: TidyTuesday**
       + *Tuesday, October 8, 2019*
