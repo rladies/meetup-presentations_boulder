@@ -5,11 +5,23 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 22: Frequentist & Bayesian Random Effects Models in R: RStan Tutorial**
-      + *Tuesday, January 11, 2022*
-      + [Meetup event](https://www.meetup.com/rladies-boulder/events/283098539/)
+  - **Meeting 26: TBD**
+      + *Tuesday, May 10, 2022*
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
  
 ## Past Events
+## 2022
+  - **Meeting 24: rtweet Tutorial!**
+      + *Tuesday, March 8, 2022*
+      + [Zane Dax](https://twitter.com/StarTrek_Lt) walked through the rtweet package documentation (https://cran.r-project.org/web/packages/rtweet/rtweet.pdf).
+      + [Materials](https://github.com/PythonCoderUnicorn/rtweet-tutorial)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/284341990/)
+  
+  - **Meeting 22: Frequentist & Bayesian Random Effects Models in R: RStan Tutorial**
+      + *Tuesday, January 11, 2022*
+      + Amanda Koepke presented on random effects modeling in RStan.
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/283098539/)
+
 ## 2021
   - **Meeting 21: Ugly Holiday Plot contest**
       + *Tuesday, December 14, 2021*
