@@ -5,12 +5,18 @@
 Presentations and materials from R-Ladies Boulder events and discussions. 
 
 ## Upcoming events (we plan for the second Tuesday of the month)
-  - **Meeting 26: TBD**
-      + *Tuesday, May 10, 2022*
+  - **Meeting 27: TBD**
+      + *Tuesday, June 14, 2022*
       + [Meetup event](https://www.meetup.com/rladies-boulder/events/)
  
 ## Past Events
 ## 2022
+  - **Meeting 26: Government Data**
+      + *Tuesday, May 10, 2022*
+      + Christina Brady walked through some common (and some lesser known) data sets published by the federal government as well as some state and local data sources.
+      + [Materials](https://github.com/christinabrady/presentations)
+      + [Meetup event](https://www.meetup.com/rladies-boulder/events/285558959/)
+  
   - **Meeting 24: rtweet Tutorial!**
       + *Tuesday, March 8, 2022*
       + [Zane Dax](https://twitter.com/StarTrek_Lt) walked through the rtweet package documentation (https://cran.r-project.org/web/packages/rtweet/rtweet.pdf).
